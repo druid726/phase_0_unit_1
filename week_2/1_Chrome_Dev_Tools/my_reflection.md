@@ -10,6 +10,6 @@ The Document Object Model -- well - I think I understand it conceptually but a l
 
 Chrome Web Tools are interesting - I really like that you can experiment with the HTML and CSS on the fly, I haven't tried to save it up yet.  I looked at wordpress.com and my site and wordpress seems full of JavaScript.  I am barely to the point where it doesn't look like a kaleidoscope of multi-colored text and I have a hard time knowing what text in HTML corresponds to the text on the screen.  I know I will enjoy using Dev Tools in the future but for right now its a little jumbled.
 
-No aha moments or solidication just wading through right now.
+No aha moments or solidification just wading through right now.
 
 I did check out the Treehouse blog and that was helpful.
