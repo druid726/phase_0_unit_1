@@ -9,4 +9,4 @@ My biggest time management challenge so far - has been not anticipating the work
 
 The counterintuitive productivity blog spoke to me (can I get a witness!!).  I have periods of intense creativity and productivity and also periods of intense reflection and maintenance.  I find that starting small or trying to do nothing is a great way to go otherwise I become paralyzed focusing on the end result.  I usually need to walk away from a problem after a period of time (the longer I work on it the less I understand it) - that's when the potential solutions will present themselves to me. 
 
-I plan to try meditation to combat the stress and set-up time frames for working on aspects I hate or find boring.  I have a schedule for Mon-Fri of Phase 0. I am hoping to use the weekends for catch-up and relaxing. 
+I plan to try meditation to combat the stress and set-up time frames for working on aspects I hate or find boring.  I have a schedule for Mon-Fri of Phase 0. I am hoping to use the weekends for catch-up and relaxing. We'll see how that goes.
