@@ -16,7 +16,7 @@ Woo hoo!!!!
 
 Reset.css is necessary to remove any default settings such as margin and padding.  I prefer to use normalize.css because it makes everything naked.  I see a dramatic change in a website using normalize which I did not see with reset.
 
-I have used IE - 8 was the last version I used and Chrome -- I love Chrome.  Yes I have seen noticeable differences in the display between the two browsers. I think its bad that they don't display the sites the same.  I think it's incredibly burdensome to a designer.
+I have used IE - 8 was the last version I used and Chrome -- I love Chrome.  Yes I have seen noticeable differences in the display between the two browsers. I think its very burdensome to a designer that they don't display the sites the same.
 
 I found these two sites that were helpful: 
 
