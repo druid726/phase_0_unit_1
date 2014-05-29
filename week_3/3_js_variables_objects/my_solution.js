@@ -1,21 +1,22 @@
-// I paired [by myself, with:] on this challenge.
+// I paired with: David Bragdon on this challenge.
 
 // __________________________________________
 // Write your code below.
 
-
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+var members = ["John", "Patti", "David", "Mary"];
 
 
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
-// 
+// I really enjoyed this exercise for two reasons.  Number 1 - I understood what was being asked.  And Number 2
+// I had a great pair session with David Bragdon.  David and I had a very similar approach to solving this 
+// and it worked out very well.  This lesson drove home the different types of objects that are in JavaScript
+// and was a great entry into TDD.  
 // 
 // 
 
