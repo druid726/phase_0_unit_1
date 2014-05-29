@@ -17,19 +17,80 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+//PSUEDOCODE//
+
+// 1. Define a variable adam and use object literal notation to assign this variable 
+//    the value of a JavaScript Object object with no properties.
+//  
+//    Create variable adam as an object 
+//    
+// 2. Give adam a name property with the value "Adam".
+//
+//    adam variable name "Adam"
+//
+// 3. Add a spouse property to terah and assign it the value of adam.
+//
+//    terah - add adam as spouse property
+//
+// 4. Change the value of the terah weight property to 125.
+//
+//    change weight property to 125
+//
+// 5. Remove the eyeColor property from terah.
+//
+//    remove eyecolor property from terah object
+//
+// 6. Add a spouse property to adam and assign it the value of terah.
+//
+//    add spouse property to adam -- value terah
+//
+// 7. Add a children property to terah and and use object literal notation to assign 
+//    this variable the value of a JavaScript Object object with no properties
+//
+//    add children property to terah object no properties
+//
+// 8. Add a carson property to the value of the terah children property and assign it 
+//   the value of an object with the property name with a value of "Carson".
+//
+//    add carson property with the property name "Carson" to the children property of the terah object
+//
+// 9. Add a carter property to the value of the terah children property and assign it 
+//    the value of an object with the property name with a value of "Carter".
+//
+//    add carter property with the property name "Carter" to the children property of the terah object
+//
+// 10. Add a colton property to the value of the terah children property and assign it 
+//     the value of an object with the property name with a value of "Colton".
+//
+//    add colton property with the property name "Colton" to the children property of the terah object
+//
+// 11. Add a children property to adam and assign it the value of terah children.
+//
+//    add children property to adam link to terah's children property
+//
 
 
 
-
-
+var adam = {
+  name: "Adam"
+}
+terah.spouse = adam
+terah.weight = 125
+adam.spouse = terah
+delete terah.eyeColor
+terah.children = {}
+terah.children.carson = {name: "Carson"}
+terah.children.carter = {name: "Carter"}
+terah.children.colton = {name: "Colton"}
+adam.children = terah.children
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
+// I am surprised how comfortable these exercises have been.  I have studied a very small amount of
+// Javascript and have found it intimidating.  The literal notation seems pretty easy so far.  I did 
+// enjoy this exercise and it definitely went a long way to solidifying things for me.  The TDD was 
+// pretty cool as well.
 // 
 // 
 
