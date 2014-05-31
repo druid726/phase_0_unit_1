@@ -96,6 +96,7 @@ if(name === "Gordon")
 
 //Taunt
 //hurl insults at the Ogre - one at a time
+//get Ogre to move within shooting distance of Tower
 
 this.say("You are soo ugly!");
 this.say("You smell bad");
