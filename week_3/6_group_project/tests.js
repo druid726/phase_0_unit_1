@@ -34,6 +34,7 @@ assert(
   "3. "
 )
 
+
 // tests for mean
 assert(
   (mean instanceof Function),
@@ -53,6 +54,7 @@ assert(
   "6. "
 )
 
+
 // tests for median
 assert(
   (median instanceof Function),
@@ -65,6 +67,7 @@ assert(
   "median should return the median value of all elements in an array with an odd length.",
   "8. "
 )
+
 
 assert(
   median(evenLengthArray) === 5.5,
